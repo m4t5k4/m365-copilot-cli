@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/CopilotFs.Core/CopilotFs.Core.csproj" />
+  <Project Path="src/CopilotFs/CopilotFs.csproj" />
+  <Project Path="tests/CopilotFs.Tests/CopilotFs.Tests.csproj" />
+</Solution>
